@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rcgalbo
 - 👀 I’m interested in data
-- 🌱 I’m currently learning mongodb
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on any projects that help people help people
 - 📫 The best wayy to reach me is at rcgalbo@gmail.com
 
