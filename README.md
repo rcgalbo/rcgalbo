@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rcgalbo
 - 👀 I’m interested in data
-- 🌱 I’m currently learning to be a centered and caring individual
 - 💞️ I’m looking to collaborate on any projects that help people help people
 - 📫 The best wayy to reach me is at rcgalbo@gmail.com
 
